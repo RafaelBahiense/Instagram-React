@@ -7,7 +7,7 @@ const stories = [{user : "9gag", img : "9gag"},{user : "meowed", img : "meowed"}
 export default function Stories () {
     return (
         <div class="stories">
-            {stories.map(object => <Story img={object.img} user={object.user}/>)}
+            {stories.map(object => <Story {...object}/>)}
             <Setinha />
         </div>
     );
