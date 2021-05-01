@@ -1,5 +1,5 @@
-# Bate-papo-UOL
+# Instagram-React
 
-Projeto #07 da quinta semana do bootcamp Responde Aí
+Projeto #07 da sétima semana do bootcamp Responde Aí
 
 Uma solução frontend em React para o Instagram
